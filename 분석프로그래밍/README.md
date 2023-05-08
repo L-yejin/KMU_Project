@@ -1,5 +1,9 @@
 ### 2021 분석프로그래밍 강의 중 진행했던 프로젝트입니다.
 
+## 실버세대의 라이프스타일을 통한 마케팅 전략
+|기간|Tags|역할|
+|2021|EDA, Data Analysis, Marketing|분석,발표|
+
 ![분프_프로젝트(실버세대)-01](https://user-images.githubusercontent.com/104400282/236856170-aa662a4f-07c2-41ca-b5ae-dca3d996209f.jpg)
 ![분프_프로젝트(실버세대)-02](https://user-images.githubusercontent.com/104400282/236856538-441c22ff-53e6-4262-81d0-0906d8976a96.jpg)
 ![분프_프로젝트(실버세대)-03](https://user-images.githubusercontent.com/104400282/236856550-79cafe9c-00f4-4c07-8379-fa12e24c1d4d.jpg)
