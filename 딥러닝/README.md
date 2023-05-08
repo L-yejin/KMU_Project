@@ -1,5 +1,13 @@
 2022 딥러닝 강의 중 진행했던 프로젝트입니다
 
+## 한국 이미지에 Colorization 적용하기
+|기간|Tags|역할|
+|---|-----|---|
+|2021|CV, Colorization|팀장, ChromaGAN, Dataset 정제, model search, evaluation metric, code 정리|
+
+---
+#### 아래는 발표 자료입니다
+
 ![최종발표_ 3조 Colorization_강민수_황태균_이예진_-01](https://user-images.githubusercontent.com/104400282/236860598-62281875-0bff-4f2d-9fe7-3931fbe23b8a.jpg)
 ![최종발표_ 3조 Colorization_강민수_황태균_이예진_-02](https://user-images.githubusercontent.com/104400282/236860606-f90a114d-4463-42ce-b093-4d1d124b7814.jpg)
 ![최종발표_ 3조 Colorization_강민수_황태균_이예진_-03](https://user-images.githubusercontent.com/104400282/236860609-270a0888-0c20-4911-95a5-9bf13dc8f587.jpg)
