@@ -2,4 +2,4 @@
 
 |기간|Tags|역할|
 |----|----|---|
-|2023.04.07~present|NLP, 크롤링, Data Analysis|크롤링, Data Analysi|
+|2023.04.07~2023.06.10|NLP, 크롤링, Data Analysis|크롤링, Data Analysi|
