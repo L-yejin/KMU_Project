@@ -5,4 +5,5 @@
 |2023.04.07~2023.06.10|NLP, 크롤링, Data Analysis|크롤링, Data Analysi|
 
 #### 분석 및 코드 설명
-[텍데분_코드설명_이예진.pdf](https://github.com/L-yejin/KMU_Project/files/11758737/_._20192792_.pdf)
+[텍데분_코드설명_이예진.pdf](https://github.com/L-yejin/KMU_Project/files/11758751/_._.pdf)
+
